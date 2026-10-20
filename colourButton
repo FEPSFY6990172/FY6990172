@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Change Button Color</title>
+</head>
+<body>
+  <button id="colorButton">Click me to change color</button>
+
+  <script>
+   //Get a reference to the button element
+   var button = document.getElementByld("colorButton");
